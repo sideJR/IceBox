@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/input" />
+    <item
+        android:id="@+id/nav_good"
+        android:icon="@mipmap/logo_img"
+        android:title="@string/icebox" />
+    <item
+        android:id="@+id/nav_bad"
+        android:icon="@mipmap/logo_img"
+        android:title="@string/bad_icebox" />
+</menu>
